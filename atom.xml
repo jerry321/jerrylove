@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coding-pages-bucket-3479081-7966324-2183-336482-1303859390.cos-website.ap-hongkong.myqcloud.com</id>
     <title>为你而建</title>
-    <updated>2020-10-07T02:58:37.215Z</updated>
+    <updated>2020-10-07T03:13:55.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://coding-pages-bucket-3479081-7966324-2183-336482-1303859390.cos-website.ap-hongkong.myqcloud.com"/>
     <link rel="self" href="https://coding-pages-bucket-3479081-7966324-2183-336482-1303859390.cos-website.ap-hongkong.myqcloud.com/atom.xml"/>
-    <subtitle>送你一个小小的礼物</subtitle>
+    <subtitle>送你的一个小小礼物</subtitle>
     <logo>https://coding-pages-bucket-3479081-7966324-2183-336482-1303859390.cos-website.ap-hongkong.myqcloud.com/images/avatar.png</logo>
     <icon>https://coding-pages-bucket-3479081-7966324-2183-336482-1303859390.cos-website.ap-hongkong.myqcloud.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 为你而建</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://coding-pages-bucket-3479081-7966324-2183-336482-1303859390.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/</id>
-        <link href="https://coding-pages-bucket-3479081-7966324-2183-336482-1303859390.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/">
+        <id>https://coding-pages-bucket-3479081-7966324-2183-336482-1303859390.cos-website.ap-hongkong.myqcloud.com/hello-gridea/</id>
+        <link href="https://coding-pages-bucket-3479081-7966324-2183-336482-1303859390.cos-website.ap-hongkong.myqcloud.com/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
